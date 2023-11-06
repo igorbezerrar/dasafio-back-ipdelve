@@ -357,7 +357,5 @@ GET /propriedades_intelectuais/?tipo_propriedade=Patente&proprietario=Empresa In
 
 Estes itens não são obrigatório para a entrega do desafio, mas seria interessante se você conseguisse fazer dentro do prazo estipulado com o seu recrutador
 
-##### Integração com Trello
-
 - Possuir testes unitários
 - Utilizar Mysql ao invés do sqlite
